@@ -366,4 +366,5 @@ filetype plugin indent off
 set runtimepath+=$GOROOT/misc/vim
 filetype plugin indent on
 syntax on
+set rtp+=$GOPATH/src/github.com/golang/lint/misc/vim
 
